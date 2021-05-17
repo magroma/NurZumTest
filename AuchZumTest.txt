@@ -6,3 +6,6 @@ In "VS Code" neue Datei erstellen (vorerst mal *.txt).
 In "Source control" auf "+"-Symbol klicken (Stage all Changes).
 In der Textzeile die Art der Änderung eintragen und mit dem Haken "committen"
 Ganz unten in der Fensterleiste das Wolkensysmbol anklicken und das Repository zu GitHub hochladen.
+
+
+Test
